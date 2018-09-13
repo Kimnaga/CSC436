@@ -1,0 +1,62 @@
+CSC 436 2018
+Name: Chandler Gegg
+Email:  chandlergegg@gmail.com
+Class room: CDM 00206 at Loop Campus Meeting time: Tu 5:45PM - 9:00PM
+Academic Integrity Policy : https://offices.depaul.edu/academic-affairs/faculty-resources/teaching/academic-integrity/Documents/Academic%20Integrity%20Policy_Spring%202016.pdf
+
+Office hours: Thursday 4:00 pm - 6:00 pm central
+30 minutes appointments can be scheduled using the link below and can be by phone or in person at the following location
+
+Location:
+We Work 100 South State street
+Fourth floor,
+Chicago, IL
+
+https://calendly.com/chandlergegg/csc436officehours/09-10-2018
+
+Course Description
+
+This course covers the design and development of modern web applications and their interaction with web services. The primary focus is on client-side web applications using AJAX-techniques to access web services. Possible topics include: HTML5; JavaScript/TypeScript; MVC and single-page application programming models, e.g., Angular 4+; client-side web applications with local storage; data synchronization; HTTP, proxies, and caching; Node.js; RESTful web services. 
+
+PREREQUISITE(S): CSC 435 and CSC 447
+
+Grading
+
+Homework and class participation 75%
+Final Project 25%
+
+NO LATE HOMEWORK SUBMISSIONS (EXCLUDING EMERGENCIES) !!!
+
+Homework Submission Requirements
+* HOMEWORK IS DUE WEDNESDAY AT MIDNIGHT !!! NO EXCEPTIONS !!!
+* Public Github repo
+* Push source code to GitHub using the repo name provided in the homework instructions
+* Include a build or dist file as part of the source code submission
+* Submit a zip file containing build file and source code to d2l
+
+*** A PORTION OF GRADING HOMEWORK IS AUTOMATED.  FAILURE TO SUBMIT BUILDABLE CODE CAN INCUR UP TO 20%
+     LOSS OF HOMEWORK ASSIGNMENT GRADE
+
+Final Project: DUE DATE Tuesday November 20, 2018
+Several project topics will be provided, students can also request to come up with personal project idea.  Students will build a single page mobile/web app using Angular.
+
+Class Requirements
+
+Textbook
+ng-book 2 the complete book on angular 4
+https://www.ng-book.com/2/
+
+Applications code libraries
+
+Libraries
+GitHub 
+Node 8+
+NPM ^6.0
+Angular cli ^1.7 
+Angular ^5
+
+Slack - use the slack invite link below to ask and answer questions about homework as well as collaborate with other students
+
+https://join.slack.com/t/depaulcsc436/shared_invite/enQtNDMxNTQwNzY4MDM2LTBmNTM1ZGMxZmIyNmFmMGZkYzRjMDFkYTliY2M5ZDc0ZDFjMjI4MDg5OTVmMjFhY2I3YWYwZjZiNGYyOTM0MDY
+
+
