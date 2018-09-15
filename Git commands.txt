@@ -1,0 +1,12 @@
+﻿Cd <foldername>
+	Go to folder
+	dir
+	List all folders
+	dir /a 
+	Show hidden file
+	git --version
+	Find git version
+	Del <filename> 
+	Delete file
+	Rmdir /s /q <fodlername>
+	Delete folder
